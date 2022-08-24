@@ -21,5 +21,5 @@ function NavBar() {
     </nav>
   );
 }
-// comments here just to push......
+
 export default NavBar;
