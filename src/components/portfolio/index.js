@@ -2,7 +2,7 @@ import React from 'react';
 
 import teamID from "../../assets/images/teamID.png";
 import textEditor from "../../assets/images/textEditor.png";
-import comingSoon from "../../assets/images/comingSoon.jpg";
+import comingSoon from "../../assets/images/comingSoon.jpeg";
 import carbonCombaters from "../../assets/images/carbonCombaters.png";
 import noTime from "../../assets/images/noTime.png";
 import noteTaker from "../../assets/images/noteTaker.png";
