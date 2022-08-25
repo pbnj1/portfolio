@@ -12,6 +12,9 @@ Software Engineer that utilizes skills of unique and creative problem solving, d
 I am passionate about helping others improve quality of life through technology. When I am not working I enjoy spending time with my family, hiking with our dog, and streaming too many hours of Netflix! I love animals, health and wellness, and doing my part to leave this world a better place.
 
 
+<img width="1315" alt="Screen Shot 2022-08-25 at 4 56 18 PM" src="https://user-images.githubusercontent.com/105159702/186767644-0340af33-2086-4fbf-bbc9-8dc8a18ce051.png">
+
+
 
 
 
