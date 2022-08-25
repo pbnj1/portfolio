@@ -13,6 +13,8 @@ I am passionate about helping others improve quality of life through technology.
 
 
 
+
+
 ## Technologies
 * [react](https://reactjs.org/)
 * [Bootstrap](https://getbootstrap.com/)
