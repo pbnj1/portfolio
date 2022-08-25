@@ -7,7 +7,7 @@ function Home() {
     <section className="home my-5">
       <div className="title">
         <h2 >Hi, I'm Pete</h2>
-        <p>Welcome to my Portfolio!</p>
+        <p>Thanks For Checking Out My Portfolio!</p>
         <Link to="portfolio">
           <button>View my Projects</button>
         </Link>

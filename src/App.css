@@ -27,9 +27,7 @@ main {
 html,
 body {
   min-height: 100%;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-  sans-serif;
+  font-family: "Montserrat", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -51,7 +49,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 300;
   margin: 5px 0;
   line-height: 1.25;
@@ -178,13 +176,12 @@ li {
 nav a:hover {
   text-decoration: none;
   color: #f24e1e;
-  font-style:oblique;
+ 
 }
 
 .logo a:hover {
   text-decoration: none;
   color: #f24e1e;
-  font-style: italic;
 }
 
 nav li {
