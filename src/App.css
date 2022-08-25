@@ -126,7 +126,14 @@ button {
 }
 
 button:hover {
+  color: #f24e1e;
+}
+
+footer li:hover {
+  border: none;
+  border-radius: 50%;
   background-color: #f24e1e;
+  opacity: 80%;
 }
 
 button[disabled] {
