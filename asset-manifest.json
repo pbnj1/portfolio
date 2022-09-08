@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.092ccda8.chunk.css",
-    "main.js": "/portfolio/static/js/main.7282deb5.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.7282deb5.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.b8fcdd7d.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.b8fcdd7d.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.0d45bcd4.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.0d45bcd4.js.map",
     "static/js/2.f2b7896e.chunk.js": "/portfolio/static/js/2.f2b7896e.chunk.js",
@@ -16,6 +16,7 @@
     "static/css/main.092ccda8.chunk.css.map": "/portfolio/static/css/main.092ccda8.chunk.css.map",
     "static/js/2.f2b7896e.chunk.js.LICENSE.txt": "/portfolio/static/js/2.f2b7896e.chunk.js.LICENSE.txt",
     "static/media/carbonCombaters.f9cfbd30.png": "/portfolio/static/media/carbonCombaters.f9cfbd30.png",
+    "static/media/carded.c4ffe759.png": "/portfolio/static/media/carded.c4ffe759.png",
     "static/media/comingSoon.289cacce.jpeg": "/portfolio/static/media/comingSoon.289cacce.jpeg",
     "static/media/noTime.0cd70579.png": "/portfolio/static/media/noTime.0cd70579.png",
     "static/media/noteTaker.f540bf59.png": "/portfolio/static/media/noteTaker.f540bf59.png",
@@ -28,6 +29,6 @@
     "static/js/runtime-main.0d45bcd4.js",
     "static/js/2.f2b7896e.chunk.js",
     "static/css/main.092ccda8.chunk.css",
-    "static/js/main.7282deb5.chunk.js"
+    "static/js/main.b8fcdd7d.chunk.js"
   ]
 }
