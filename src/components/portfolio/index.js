@@ -6,6 +6,7 @@ import comingSoon from "../../assets/images/comingSoon.jpeg";
 import carbonCombaters from "../../assets/images/carbonCombaters.png";
 import noTime from "../../assets/images/noTime.png";
 import noteTaker from "../../assets/images/noteTaker.png";
+import carded from "../../assets/images/carded.png";
 
 function Portfolio() {
   return (
@@ -93,13 +94,13 @@ function Portfolio() {
         <div class="col">
           <div class="card">
             <img
-              src={comingSoon}
+              src={carded}
               alt="Coming Soon"
               class="card-img-top"
             />
             <div class="card-body">
-              <a href="https://github.com/pbnj1" target="_blank" rel="noreferrer">
-                <button>GitHub</button>
+              <a href="https://get-carded.herokuapp.com/" target="_blank" rel="noreferrer">
+                <button>Website</button>
               </a>
             </div>
           </div>

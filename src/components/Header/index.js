@@ -7,7 +7,7 @@ function Header() {
 
   return (
     <header className="flex-row px-1">
-      <div className="logo">
+      <div className="logo ">
         <h1>
         <Link to="/">Pete Wang</Link>
         </h1>
